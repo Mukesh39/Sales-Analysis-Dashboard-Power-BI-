@@ -51,6 +51,17 @@ Use SQL Queries (if applicable) to extract insights before visualization.
 
 📸 Dashboard Previews
 
+![Image](https://github.com/user-attachments/assets/8c485a0c-c441-458f-b5e5-1bce8a4fe01f)
+![Image](https://github.com/user-attachments/assets/e004bbca-74b0-46fa-b5d5-67c55433ec9d)
+![Image](https://github.com/user-attachments/assets/2fc96061-f07c-4700-9aa6-a327f66bca11)
+![Image](https://github.com/user-attachments/assets/7908f83e-569a-4270-b703-949e02a06db5)
+![Image](https://github.com/user-attachments/assets/6f923c19-d01d-4155-9212-ea66ad7aea66)
+![Image](https://github.com/user-attachments/assets/d2c3fad9-6aea-4f96-96eb-f375e22eb283)
+![Image](https://github.com/user-attachments/assets/18957d83-cc35-4544-874c-296d824e9b7d)
+![Image](https://github.com/user-attachments/assets/202f935a-a68d-42c3-aeed-5781c0734f4a)
+![Image](https://github.com/user-attachments/assets/8bdd088f-79df-4274-9cfa-643eeb01d764)
+![Image](https://github.com/user-attachments/assets/cae5c78a-6f48-484b-b47b-0617e6858ff4)
+
 
 
 🎯 Key Insights
